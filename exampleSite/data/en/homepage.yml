@@ -42,7 +42,7 @@ features:
       inventore?
 promo:
   enable: true
-  image: "/images/sharplogoreal.jpg"
+  image: "/images/sharplogoreal.png"
   title: 'About the Club:'
   content: 'This club will do a multitude of positive things for you, your community,
     and your planet: You get to save animals, you help Earth, you get to learn important
