@@ -13,30 +13,30 @@ banner:
 features:
   enable: true
   title: Reasons to Join
-  image: images/watch-2.png
+  image: "/images/sharplogoreal.jpg"
   left_side:
-  - title: Smooth Touch
+  - title: Raise Money
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: Meet New Friends
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: Develop Great Experiences
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
+  - title: Learn
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: Volunteer!
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: 'Have Fun '
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
