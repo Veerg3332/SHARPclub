@@ -11,7 +11,7 @@ banner:
     label: Join The Meeting!
     link: zoom link here
 features:
-  enable: true
+  enable: false
   title: Reasons to Join
   image: "/images/sharplogoreal.jpg"
   left_side:
@@ -42,12 +42,12 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: "/images/sharplogoreal.jpg"
+  title: 'About the Club:'
+  content: 'This club will do a multitude of positive things for you, your community,
+    and your planet: You get to save animals, you help Earth, you get to learn important
+    skills, you get to have a great time, and you get to volunteer/fundraise (which
+    will help you with colleges). <br>'
 about_product:
   enable: false
   title: Why Choose Apple Watch
