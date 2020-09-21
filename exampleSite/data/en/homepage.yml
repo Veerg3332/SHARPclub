@@ -2,8 +2,9 @@
 banner:
   enable: true
   title: Save Animals, Join SHARP
-  content: 'In SHARP, you will get the great and unique opportunity to help animals,
-    while boosting your college resume. '
+  content: In SHARP, you will get the great and unique opportunity to help animals,
+    while boosting your college resume. To the left is a great video showcasing the
+    club!
   image: "/images/sharp-1.mp4"
   button:
     enable: true
