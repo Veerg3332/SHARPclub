@@ -49,7 +49,7 @@ author = "Veer Gala"
 contact_form_action = "#"
 currency = "$"
 description = "SHARP"
-logo = "/images/sharplogoreal.jpg"
+logo = "/images/sharplogoreal.png"
 logo_width = "100px"
 snipcart_api = ""
 [[params.plugins.css]]
